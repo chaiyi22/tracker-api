@@ -1,0 +1,6 @@
+node_modules
+deploy
+.DS_Store
+.env
+ui/dist
+credentials.json
